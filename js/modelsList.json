@@ -1,0 +1,13 @@
+{    
+"barcode_value": 3,
+"model_name": "car",
+"model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/car_model/Convertible.gltf",
+"position": { "x": 3, "y": 0, "z": 0 },
+"rotation": { "x": 0, "y": -90, "z": 0 },
+"scale": { "x": 1, "y": 1, "z": 1 },
+"placement_position": { "x": 1.5998, "y": 1.1, "z": 5.16068 },
+"placement_rotation": { "x": 0, "y": -90, "z": 0 },
+"placement_scale": { "x": 0.3, "y": 0.3, "z": 0.3 }
+  
+}
+
